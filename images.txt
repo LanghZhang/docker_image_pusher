@@ -1,1 +1,3 @@
-lscr.io/linuxserver/libreoffice:latest
+ghcr.io/monlor/xiaoya-alist
+ghcr.io/monlor/xiaoya-metadata
+ghcr.io/monlor/xiaoya-embyserver
