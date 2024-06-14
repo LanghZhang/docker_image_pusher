@@ -1,1 +1,1 @@
-dashy
+lissy93/dashy:latest
