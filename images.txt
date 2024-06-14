@@ -1,2 +1,2 @@
-alpine
-nginx
+libreoffice:latest
+calibre-webserver:latest
