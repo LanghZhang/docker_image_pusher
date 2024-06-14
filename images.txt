@@ -1,3 +1,1 @@
-ghcr.io/monlor/xiaoya-alist
-ghcr.io/monlor/xiaoya-metadata
-ghcr.io/monlor/xiaoya-embyserver
+appflowyio/appflowy_client:main
