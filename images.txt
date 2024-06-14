@@ -1,1 +1,1 @@
-appflowyio/appflowy_client:main
+mysql:8.0
