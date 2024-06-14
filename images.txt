@@ -1,1 +1,2 @@
 lissy93/dashy:latest
+talebook/calibre-webserver:latest
