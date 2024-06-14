@@ -1,2 +1,1 @@
-libreoffice:latest
-calibre-webserver:latest
+dashy:latest
