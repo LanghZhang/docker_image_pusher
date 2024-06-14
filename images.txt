@@ -1,2 +1,1 @@
-lissy93/dashy:latest
-talebook/calibre-webserver:latest
+lscr.io/linuxserver/libreoffice:latest
