@@ -1,1 +1,1 @@
-filegator/filegator
+emby/embyserver
