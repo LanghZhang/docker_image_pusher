@@ -1,2 +1,1 @@
-mysql:8.0
-snipe/snipe-it:v6.1.0
+frooodle/s-pdf:latest
