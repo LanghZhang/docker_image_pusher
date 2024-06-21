@@ -1,3 +1,1 @@
-halohub/halo:2.14
-mysql:8.1.0
-privoce/vocechat-server:latest
+dockerproxy.com/budtmo/docker-android:emulator_9.0
