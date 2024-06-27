@@ -1,1 +1,1 @@
-dockerproxy.com/budtmo/docker-android:emulator_9.0
+zingerbee/serverbee-web
