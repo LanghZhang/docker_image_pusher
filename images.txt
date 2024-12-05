@@ -1,1 +1,2 @@
-guovern/iptv-api:latest
+greaterwms/greaterwms:front
+greaterwms/greaterwms:backend
