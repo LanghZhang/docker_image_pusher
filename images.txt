@@ -1,1 +1,3 @@
-stirlingtools/stirling-pdf:latest
+etherpad/etherpad:latest
+postgres:15-alpine
+etherpad/etherpad
