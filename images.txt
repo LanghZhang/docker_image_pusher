@@ -1,4 +1,6 @@
-jonnyan404/mrdoc-nginx
+jellyfin/jellyfin
+#grafana/grafana
+#jonnyan404/mrdoc-nginx
 #docker.io/algernonking/eamapp:1.0.6
 #prom/prometheus:v3.0.1
 #grafana/grafana:11.3.1
