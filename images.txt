@@ -1,4 +1,5 @@
-jellyfin/jellyfin
+youshandefeiyang/allinone
+#jellyfin/jellyfin
 #grafana/grafana
 #jonnyan404/mrdoc-nginx
 #docker.io/algernonking/eamapp:1.0.6
