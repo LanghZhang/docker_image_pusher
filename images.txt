@@ -1,4 +1,5 @@
-youshandefeiyang/allinone
+zabbix/zabbix-server-mysql
+#youshandefeiyang/allinone
 #jellyfin/jellyfin
 #grafana/grafana
 #jonnyan404/mrdoc-nginx
