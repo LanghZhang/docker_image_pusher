@@ -1,3 +1,4 @@
+haxqer/jira:10.4.0
 haxqer/confluence:9.3.1
 #jrottenberg/ffmpeg:latest
 #bestzwei/libretv
