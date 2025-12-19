@@ -1,5 +1,7 @@
-haxqer/jira:10.4.0
-haxqer/confluence:9.3.1
+d3vilh/openvpn-server:latest
+d3vilh/openvpn-ui:latest
+#haxqer/jira:10.4.0
+#haxqer/confluence:9.3.1
 #jrottenberg/ffmpeg:latest
 #bestzwei/libretv
 #zabbix/zabbix-server-mysql
