@@ -1,4 +1,5 @@
-cppla/serverstatus:latest
+budtmo/docker-android:emulator_14.0
+#cppla/serverstatus:latest
 #d3vilh/openvpn-server:latest
 #d3vilh/openvpn-ui:latest
 #haxqer/jira:10.4.0
